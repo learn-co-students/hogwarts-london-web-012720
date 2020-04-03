@@ -1,5 +1,6 @@
 import piggy from "../porco.png";
 import React from "react";
+import HogFilter from './HogFilter'
 
 const Nav = () => {
   return (
